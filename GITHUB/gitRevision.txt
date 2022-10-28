@@ -1,0 +1,73 @@
+93 interview we have done 
+
+communication -  English   10%
+concepts      -      30%
+implementation-      50%
+tech term     -      10%
+
+FORM  -   
+    it an element to get or capture user data 
+	
+	can you create a simple login
+
+      username -
+      password -
+         submit 
+		 input
+    form controles 
+              textbox 
+              radio button 
+              checkbox 			  
+
+	
+1.HTML
+ 1.   TOPIC LEVEL CONCEPT  - PRESENTATION 
+      FORM  - 
+              ATTRIBUTES  
+                ACTION  - SERVER END POINT / API
+				METHOD 
+				MEDIA
+				ENCT
+				
+	  FORM CONTROLS
+	      single text box 
+		    input 
+			   type  
+			   name
+			   id
+			   placeholder
+			   
+			   
+			   TOPIC WISE ASSIGMENT 
+			   
+			   
+			   EACH AND EVERY ONE 
+			   
+			   GITHUB 
+			   
+	  
+
+   				
+		
+2.CSS
+3.JS
+4.ANGULAR 
+	
+  per repository 
+	1.create logic/signup
+	2.clone 
+	3.setting up cred
+	
+	red - untracked : it needs to be add it the git repo local .
+	      modified 
+		  
+		 
+		  
+    green - tracked /staged or git added 
+	
+	 git add 
+	 git commit -m"added h1 element"
+	
+	
+	
+	 
