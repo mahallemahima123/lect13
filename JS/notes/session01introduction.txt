@@ -1,0 +1,74 @@
+Session-01-Introduction JS 
+------------------------------
+1.Javascript is programming language 
+which is used at 
+ i.client  
+ ii.server both sides
+ 
+2.javascript used make dynamic application 
+
+HTML  -> we can create element 
+CSS   -> styling element 
+JAVASCRIPT -> IT MAKES ELEMENT DYNAMIC 
+<p>20</p>
+<h1>30</h1>
+
+<h3> addition :  <h3>
+1.what is differce between react js and angular 
+1.Library   -
+    i.predefined code we use in our project
+	   our way , how and what , where .
+	   
+	   
+	
+  i.React JS  ->
+      Meta (Facebook) - Developer Community 
+	  multiple liberary 
+	     1.redux 
+		 
+  ii.Jquery 
+  ii.Ajax 
+2.framework  -
+          i.predefined code 
+		  ii. predefined process 
+		       
+  i.Angular 
+        Google Developer Community
+		
+		
+  ii.Express  JS
+  
+JAVA -> JAVASCRIPT 
+
+i. java is purely  backend(server) language.
+     virtual machine 
+
+javascript front end and backend (nodeJS)  browser engine / node js tools 
+
+execution/run 
+--------------------
+i.compile / interperter 
+ii.inbuild liberary 
+
+     1.BROWSER ENGINE 
+	      i.google chrome 
+		  ii.mozila 
+		  iii.edge
+		  
+		  we cannot run directly js file 
+		  we need to run first html file 
+		 
+	 
+	 2.NODE JS TOOLS 
+	      i.node js 
+		    javascript file run 
+			we cannot run directly html file 
+ style.css
+ index.html
+ main.js 
+
+
+carpet -> car 
+
+
+ 
