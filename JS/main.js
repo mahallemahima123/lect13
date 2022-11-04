@@ -1,0 +1,1 @@
+console.log('External Output  ',16*20);

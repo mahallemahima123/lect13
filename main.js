@@ -1,1 +1,0 @@
-document.write('External Output  ',16*20,'<br>');

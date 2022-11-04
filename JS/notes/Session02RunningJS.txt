@@ -1,0 +1,50 @@
+JAVASCRIPT FUNDAMENTALS 
+----------------------------------
+1.Introduction JS 
+2.Run the JS 
+    there are two ways to run javascript 
+	i.browser (browser engine/compiler)
+	      google chrome 
+		  ie, edge, mozila, opera , brave etc.. 
+	Note we cannot run js file directly on browser we need html file along with 
+
+     1. OUTPUT 
+    ---------------------------------------------------------
+          i. console.log('will be display ');   it will display on browsers console.
+          ii.document.write('hello); it will display on browser 
+          iii. innerHtml   ; it will display on page with specified location 
+		  iv.alert 
+
+      2.INPUT 
+         i.prompt  - it now recomanded 
+         ii.forms any elements -Recomanded when function topic done		 
+	ii.node js (we need to install node js )
+	   we can run js file directly
+      
+       ouput - console.log('hello);
+       input - no input 
+	   
+	   
+3.Varaible
+4.DataType 
+5.Operator 
+6.Statement
+7.Function
+------------------------------------ALGO
+
+7
+
+-------------------------------------ADVANCED JS 
+7 
+------------------------------------DOM MANUPLATION 
+7
+------------------------------------ANGULAR BASIC 
+7 
+------------------------------------ANGULAR ADVANCED 
+7
+-------------------------------------PROJECT MINI, PROJECT3, 7 DAYS MAJOR
+MOCK INTERVIEW 
+7
+-------------------------------------
+REAL 7 INTERVIEW                   
+------------------------------------- 
