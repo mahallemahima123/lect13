@@ -1,0 +1,74 @@
+ENG              VS  	PROGRAMMING 
+1.0 TO 1, A TO Z      	 I. 0 TO 9 , A TO Z 
+ data type                   data type 
+2.*-=/                   2. -=/* OPERATOR 
+3.WORD                   3. VARIABLE 
+4.SENTENCE               4. STATEMENT 
+5.PARAGRAPH              5. FUNCTION 
+6.PAGE                   6. CLASS 
+7.LESSON                 7. MODULE 
+8.BOOK                   8. SOFTWARE/ APPLICTION
+
+ 
+
+SESSION-01 INTRODUCTION
+SESSION-02 RUNNING JS APPLICATION
+SESSION-03-VARIABLE AND COMMENTS
+                 
+				 COMMENTS - IT IS USE AS  NOTES
+				            IT IS NOT A CODE HENCE COMPILER IGNORE 
+							
+							1.single line comment
+							   //
+							2.multi line comment 
+							/*
+							
+							*/
+							
+	variable - name of memory location where we store data 
+               that name we called variable 
+	
+        i.declaration
+		            declaring variables 
+		     scope  variableName;
+			 
+			 let firstName;
+			 let lastName;
+			 let rollNumber;
+			 let email;
+			 
+			
+			 
+			 
+			 
+			 
+        ii.define/initilization
+		
+		filling variable values 
+		      
+                  firstName;
+                  lastName='turerao';
+				  
+				  
+				  
+		
+        iii.scope 
+		     var,let,const 
+			 
+		
+			   
+				            
+SESSION-04-DATA TYPES
+SESSION-05-OPERATOR
+SESSION-06-STATEMENT
+SESSION-07-FUNCTION 
+
+master css 
+  8:30pm  - monday 
+  8:30pm  - tuesday js 
+  
+  mentor
+     bootstrap5
+	 jquery 
+	 ajx 
+
