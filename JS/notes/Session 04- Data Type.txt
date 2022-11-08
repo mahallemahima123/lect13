@@ -98,3 +98,23 @@ Session 04- Data Type
    
        
 		 
+		 
+		 variable
+		     declaration 
+			   scope : let ,var ,const 
+		 
+		 data type 
+		 
+		   premitive 
+		     nubmer 
+			 string 
+			 boolean 
+			 null 
+			 undedefined 
+			 symbol 
+			 bigint 
+			 
+		   non-primitive 
+		    object 
+			array 
+		 
