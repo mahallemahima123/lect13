@@ -1,0 +1,99 @@
+LAST SESSION DATA Type And Conversion
+
+       strict typed programming language 
+	       c,cpp,java,typescript
+		      boolean  isPassed=true;
+			  
+	  dynamic /weak typed programming lang 
+
+             isPassed=true
+			 
+			 javascript,python,php etc
+			 
+			
+			
+           1. primitive 
+		       i null
+			      undefined 
+				  symbol
+				  BigInt
+				  Number 
+				  boolean
+				  string
+		   2. non - primitive 
+		            Object 
+					Array 
+					
+			 
+		Conversion  
+		
+		      i.implicit 
+			  ii.explicit 
+			       i.parseInt 
+				   ii.Number
+				   
+
+Session - 06-Operator 
+---------------------------------
+               A symbole which perform operation on operand 
+                   that symbole called operator.
+             
+	there are 3 types of operator 
+       
+     i.unary operator    -  a symbol which perform operation on single operand 
+	                         7++
+							 
+							 prefix and postfix
+							 i.increment
+							    let j=9;
+										j++;
+									console.log(j)
+							 ii.decrement
+                                let m=19;
+							    m++;
+								let z=;
+								 console.log(z);
+							     
+							 
+     ii.binary           -  a  symbol which perform operation on two operand 
+	                      
+						  i.arithmatic 
+						      a*b 
+						  
+						  ii.assigment 
+						  iii.relational
+						  
+						  true or false  1 or 0
+						  
+						  >  greater than 
+						  
+						  55>90
+						  
+						  < less than 
+						  >= greater eqal 
+						  <= less than eqal
+						  
+						  
+						    
+							== alows implicit conversion 
+						    ===not allow implicit conversion 
+						  
+						  iv.logical 
+						  
+						  let math,sci;
+						  math=50;
+						  sci=30;
+						  
+						  let pass= math>=35 && sci >=35;
+						  
+						  usrid  pass 
+                          
+                         login   = usrid ==						  
+						    
+							and  &&     -all  true then only true 
+							or   ||     -1    true then return true 
+							not   ! 
+						  
+						  v.typeof 
+     iii.ternary 	     -  a symbol which perform operation   on 3 or more 
+	  
