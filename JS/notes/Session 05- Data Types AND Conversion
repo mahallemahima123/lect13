@@ -1,0 +1,64 @@
+Data Type And Conversions
+    Primitive  
+	 i.number
+	 ii.string 
+	 iii.boolean 
+	 iv.symbol
+	 v.bigint
+	 vi.null
+	 vii.undefined 
+	 
+	non-primitive 
+	   Object 
+	      
+		  let fruit=
+		  {
+                 name:'apple',
+				 price:2000,
+				 color:red
+		  }	
+		  console.log(fruit)
+{
+key:value,
+key:value
+
+}
+  
+      
+            Array : 
+			    it is a technique to store multiple values in single variable.
+				
+				let num=[10,88,99,77];
+	
+	
+	Conversion
+	
+	 ?
+	
+	   i.implicit Type Conversion /coercion   
+	
+	      m='10'*'A';
+		  
+	   ii.Explicit Conversion 	  
+	          String To Number 
+			  
+			     i.Number function
+				 ii.paseInt()
+			  Number To  Boolean 
+			  
+			 conl Boolean(1)
+			 
+			let mobile=[
+			 {
+			 name:'xiomi',
+			 price:12345,
+			 model:'note 9'	 
+			 
+			 },
+			  {
+			 name:'Realme',
+			 price:12345,
+			 model:'Realme 9'	 
+			 
+			 }
+			 ]

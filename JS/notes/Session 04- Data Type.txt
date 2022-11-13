@@ -1,0 +1,120 @@
+Last Session 03 - 
+variable - name of memory location 
+         
+		 i.declartion 
+		 
+		 var num;
+		 
+		 ii.defination / initlization 
+		 
+		  num=10;
+		  
+		iii.scope 
+		   i.var    - old js version ,function level  scope
+		   
+		   ii.let  - new js ecam    , block level scope
+		   
+		   iii.const  - block level scope , 
+		       constant,  redifined / reintilized 
+			      num=90;  // define / intilization 
+				  
+				  num=99;  // re defie or re intilized 
+
+
+		 
+		 
+
+Session 04- Data Type 
+-------------------------
+   i. premitive   :
+         
+        1.number 
+		
+		let mobile=99999999;
+
+          mobile=8888888;
+          cosole.log(mobile)	
+           
+         avg=99.8;
+		 
+		 
+		
+        2.string  
+		
+		let name='santosh';
+		let mobile=23456789789;
+		
+		i.' '    single quaote
+		ii."  "  double quaote
+		iii.`  ` tick
+		
+		3.boolean  true / false 
+		4.null     
+		5.undefined  
+		6.BigInt 
+		7.symbol 
+		
+        		
+         		   
+   ii. non-primitive 
+   
+   i.Object   - it stored properties of realtime entity 
+                mobile 
+				laptop 
+				person 
+				student
+				   firstName
+				   lastName
+				   email
+				   mobile
+				   subject
+				   
+				
+				car 
+				   properties                     methods 
+				   
+				   color;                          start , running break 
+				   brand
+				   engie 
+				   
+				   
+	 there are 3 way to create object
+          i.by literal 
+		  
+		  let employee =
+		  {
+		  name:'sagar',
+		  salary:234567,
+		  desg:'Sr Engineer',
+		  id:'CIT1234567',
+		  isPermanant:true,
+          depart:'Product'		  
+		  }
+
+     
+         		
+   ii.Array 
+   
+   
+       
+		 
+		 
+		 variable
+		     declaration 
+			   scope : let ,var ,const 
+		 
+		 data type 
+		 
+		   premitive 
+		     nubmer 
+			 string 
+			 boolean 
+			 null 
+			 undedefined 
+			 symbol 
+			 bigint 
+			 
+		   non-primitive 
+		    object 
+			array 
+		 
